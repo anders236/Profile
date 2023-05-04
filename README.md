@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anders
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning data viz
 - 📫 How to reach me: andersga@buffalo.edu
 
 <!---
